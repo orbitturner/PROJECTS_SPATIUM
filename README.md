@@ -1,19 +1,15 @@
 
 <p align="center">
-  <a href="https://github.com/orbitturner/orbitnextframework"><img src="public/img/ONF_512.png" alt="Orbit Next Framework"/></a>
+<a href="https://github.com/orbitturner/orbitnextframework"><img src="ORBIT_HOME/dist/images/PROJECTS_SPATIUM.gif" alt="Orbit Projects Spatium Pres" width="auto" /></a>
 </p>
 
-________
+___
 
-| ![Work Status](https://img.shields.io/static/v1?label=WORK&message=In%20Progress&color=orange&style=for-the-badge) | ![Build Status](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/orbitturner/orbitnextframework/master/buildstatus.json&label=build&style=for-the-badge&logo=apache-rocketmq&logoColor=green) | ![Actual Version](https://img.shields.io/static/v1?label=Orbit%20Next%20Framework&message=v1.0.1&color=blue&style=for-the-badge&logo=Github) | ![PHP Version](https://img.shields.io/static/v1?label=PHP%20VERSION&message=@latest&color=blue&style=for-the-badge&logo=php) |
+| ![Work Status](https://img.shields.io/static/v1?label=WORK&message=In%20Progress&color=orange&style=for-the-badge) | ![Build Status](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/orbitturner/orbitnextframework/master/buildstatus.json&label=build&style=for-the-badge&logo=apache-rocketmq&logoColor=green) | ![Actual Version](https://img.shields.io/static/v1?label=PROJECTS%20SPATIUM&message=v1.0.1&color=blue&style=for-the-badge&logo=Github) | ![PHP Version](https://img.shields.io/static/v1?label=PHP%20VERSION&message=@latest&color=blue&style=for-the-badge&logo=php) |
 |:-:|:-:|:-:|:-:|
-| ![GITHUB FOLLOW](https://img.shields.io/github/followers/orbitturner?style=social) | ![GITHUB STARS](https://img.shields.io/github/stars/orbitturner/orbitnextframework?style=social) | ![GITHUB WATCHER](https://img.shields.io/github/watchers/orbitturner/orbitnextframework?style=social) | <img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103" > |
+| ![GITHUB FOLLOW](https://img.shields.io/github/followers/orbitturner?style=social) | ![GITHUB STARS](https://img.shields.io/github/stars/orbitturner/PROJECTS_SPATIUM?style=social) | ![GITHUB WATCHER](https://img.shields.io/github/watchers/orbitturner/PROJECTS_SPATIUM?style=social) | <img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103" > |
 
 
-
-<p align="center">
-<a href="https://github.com/orbitturner/orbitnextframework"><img src="public/img/ONF_BG_V1_RESIZED.png" alt="Orbit Next Framework BG" width="auto" /></a>
-</p>
 
 #
 
@@ -23,23 +19,22 @@ ________
 
 
 ________
-<h1 align="center">ABOUT ORBIT NEXT FRAMEWORK</h1>
+<h1 align="center">ABOUT PROJECTS SPATIUM</h1>
 
 
-**IT'S FIRST A FUNNY ADVENTURE !**<br/>
-***"Orbit Next Framework"*** is not a mega framework like symfony or whatever.<br/>
-Basically it was just a solution to solve a class project in OOP intended to deepen our knowledge in OOP in PHP.
-Then by trying to find a simple methodology allowing to succeed in making an OOP PHP project without getting tired or obstinate in managing NAMESPACES, classes, entities; I decided to create a structure that will manage the bulk of the project in the background allowing us to focus on analysis and design.<br/><br/>
-**ONF is Based on the M-V-C (MVC) methodology** and draws much inspiration from the great and Premier Senegalese FrameWork: ❤ [**SAMANE MVC**](https://github.com/ngorseckframework/samanemvc) ❤.
+**IT'S AGAIN A FUNNY THING !**<br/>
+
+BI hate the default display of servers or folders in the browser when you are in a folder without an index file. So I told myself that I was going to change this interface and make it more beautiful and more dynamic.
+Projects Spatium plays the role of displaying what is in a given folder and can be replaced by the default index of your server (wampp, xampp, laragon, etc.).
+It lists, organizes and manages the images and links to your sub-folders or your web projects without you touching a single line of code.
+COOL NO ?!❤.
 <br/><br/>
-<h3 align="center">🚧⚒⚠ ONF IS STILL ON PROGRESS AND NOT FULLY FINISHED ⚠⚒🚧</h3>
+<h3 align="center">🚧⚒⚠ ONF IS STILL ON PROGRESS ⚠⚒🚧</h3>
 <br/><br/>
 
 <h1 align="center">REQUIREMENTS</h1>
 
 - **PHP**       ✅: [`7.1 OR HIGHER`](https://www.php.net/)
-- **MySQL**     ✅: [`Website`](https://www.mysql.com/fr/)
-- **Composer**  ✅: [`For Doctrine ORM`](https://getcomposer.org/)
 
 
 <h1 align="center">INSTALLATION</h1>
