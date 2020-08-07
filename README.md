@@ -14,7 +14,7 @@ ___
 #
 
 <p  align="center">
-<strong>This is a Funny Easy Simple Lighweight *🇸🇳* Senegalese *🇸🇳* PHP Framework that have been made to help Newbies and Pro devs to code in a different way.</strong>
+<strong>This is a Funny Easy Simple Lighweight *🇸🇳* Senegalese *🇸🇳* Server Folders Manager.</strong>
 </p>
 
 
@@ -35,23 +35,20 @@ COOL NO ?!❤.
 <h1 align="center">REQUIREMENTS</h1>
 
 - **PHP**       ✅: [`7.1 OR HIGHER`](https://www.php.net/)
+- **BROWSER** 	✅: Any browser will do. Except THE good old Internet Explorer.
 
 
 <h1 align="center">INSTALLATION</h1>
 <p align="center">
-<a href="https://github.com/orbitturner/orbitnextframework/archive/ONF_V1.0.1.zip"><img src="https://img.shields.io/badge/DOWNLOAD-LATEST%20VERSION-lime?style=for-the-badge&logo=docusign&logoColor=lime"></a>
+<a href="https://github.com/orbitturner/PROJECTS_SPATIUM/archive/V1.0.1.zip"><img src="https://img.shields.io/badge/DOWNLOAD-LATEST%20VERSION-lime?style=for-the-badge&logo=docusign&logoColor=lime"></a>
 <a href="https://github.com/orbitturner/orbitnextframework/issues/new/choose"><img src="https://img.shields.io/badge/ISSUES-CREATE%20AN%20ISSUE-crimson?style=for-the-badge&logo=indeed&logoColor=CRIMSON"></a>
 </p>
 <br/>
-<h2 align="center">SNEAK PEEK / DEMO OF A LIVE PROJECT</h2>
 
 ```
- *    ╔═╗╦═╗╔╗ ╦╔╦╗  ╔╗╔╔═╗═╗ ╦╔╦╗  
- *    ║ ║╠╦╝╠╩╗║ ║   ║║║║╣ ╔╩╦╝ ║   
- *    ╚═╝╩╚═╚═╝╩ ╩   ╝╚╝╚═╝╩ ╚═ ╩   
- *    ╔═╗╦═╗╔═╗╔╦╗╔═╗╦ ╦╔═╗╦═╗╦╔═   
- *    ╠╣ ╠╦╝╠═╣║║║║╣ ║║║║ ║╠╦╝╠╩╗   
- *    ╚  ╩╚═╩ ╩╩ ╩╚═╝╚╩╝╚═╝╩╚═╩ ╩   
+╔═╗╦═╗╔═╗ ╦╔═╗╔═╗╔╦╗╔═╗  ╔═╗╔═╗╔═╗╔╦╗╦╦ ╦╔╦╗
+╠═╝╠╦╝║ ║ ║║╣ ║   ║ ╚═╗  ╚═╗╠═╝╠═╣ ║ ║║ ║║║║
+╩  ╩╚═╚═╝╚╝╚═╝╚═╝ ╩ ╚═╝  ╚═╝╩  ╩ ╩ ╩ ╩╚═╝╩ ╩
 ```
 *Comming Soon !*
 
@@ -60,7 +57,7 @@ COOL NO ?!❤.
 ## ❤🚀 Contributions & Pull Request 🚀❤
 😊✌❤ WE ARE ALWAYS WAITING FOR YOUR PULL REQUESTS ❤✌😊<br/>
 💠🏗 Contributions are always welcome too !🌌💠🏗<br/>
-Please read the [contribution guidelines](public/assets/contributing.md) first.
+Please read the [contribution guidelines](ORBIT_HOME/dist/contributing.md) first.
 <br/>
 ## License
 
