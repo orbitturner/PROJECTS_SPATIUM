@@ -55,7 +55,7 @@ $dirs = array_filter(glob('*'), 'is_dir');
                 <div class="container">
                     <div class="hero-inner">
 						<div class="hero-copy">
-	                        <h1 class="hero-title mt-0">Bienvenue à l'Accueil de ce Repository</h1>
+	                        <h1 class="hero-title mt-0">Bienvenue à l'Accueil de ce Repository.<br/>Il y'a <?=$total_items?> Dossiers</h1>
 	                        <p class="hero-paragraph">Vous trouverez dans cette page tout les projets qui sont contenu dans ce dossier. Vous pourrez y acceder en cliquant sur leur lien.</p>
 	                        <div class="hero-cta"><a class="button button-primary" href="http://orbitturner.yj.fr/portfolio/">Voir Mon Portfolio</a><a class="button" href="http://orbitturner.yj.fr/contact/">Me Contacter</a></div>
 						</div>
